@@ -8,3 +8,5 @@ Working on my official website for Wani Geoffrey
 # https://web.facebook.com/geoffrey.wani
 
 Working for a better code world 
+Software developer and a code tester 
+buildng solutions for all.
